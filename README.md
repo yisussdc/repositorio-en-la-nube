@@ -1,2 +1,1 @@
-# repositorio-en-la-nube
-creando un repositorio remoto
+esta es una forma de crear un git remoto
